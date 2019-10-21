@@ -62,10 +62,9 @@
   <!-- Fin de la creation du dépot -->
 
     <scm>
-        <url>git@github.com/ktoso/maven-git-commit-id-plugin.git</url>
-        <connection>scm:git:https://github.com/ktoso/maven-git-commit-id-plugin</connection>
-        <developerConnection>scm:git:git@github.com:ktoso/maven-git-commit-id-plugin.git</developerConnection>
-      <tag>1.0.0</tag>
+        <url>git@github.com/github.com/MarshallJr/Maven</url>
+        <connection>scm:git:https://github.com/MarshallJr/Maven</connection>
+        <developerConnection>scm:git:git@github.com/MarshallJr/Maven</developerConnection>
   </scm>
 
   <dependencies>
